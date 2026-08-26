@@ -128,7 +128,7 @@ def resolve_categories(item, media_type="movie"):
     if not categories:
         categories.append("Film" if media_type == "movie" else "Dizi")
 
-    return ", ".join(categories)
+    return ", ".join(categories), categories
 
 def resolve_platform(item):
     """Yayıncı ağ veya platformu belirler."""

@@ -41,7 +41,7 @@ def save_json(data, filename):
     os.makedirs(DATA_DIR, exist_ok=True)
     filepath = os.path.join(DATA_DIR, filename)
     with open(filepath, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, separators=(',', ':'))
+        json.dump(data, f, ensure_ascii=False, indent=2)
     file_size_mb = os.path.getsize(filepath) / (1024 * 1024)
     print(f"[+] '{filename}' güncellendi: {len(data)} içerik ({file_size_mb:.2f} MB)")
 
@@ -122,7 +122,7 @@ def convert_tmdb_item_to_model(tmdb_id, media_type="movie", today_str=None):
     else:
         url = build_zstream_tv_url(tmdb_id, orig_title or title)
         
-    categories = resolve_categories(data, media_type)
+    categories_str, genres_list = resolve_categories(data, media_type)
     platform = resolve_platform(data)
     
     return {
@@ -130,7 +130,8 @@ def convert_tmdb_item_to_model(tmdb_id, media_type="movie", today_str=None):
         "tmdb_id": tmdb_id,
         "title": title or orig_title or "",
         "original_title": orig_title or title or "",
-        "category": categories,
+        "genres": genres_list,
+        "category": categories_str,
         "platform": platform,
         "imdb_id": imdb_id,
         "imdb": rating,

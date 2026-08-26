@@ -117,7 +117,11 @@ def build_100k_catalog(movies_count=100000, series_count=100000):
         m_id = item["id"]
         # Eğer elimizde zaten afişi/kategorisi olan zengin kayıt varsa onu kullan
         if m_id in existing_movies:
-            final_movies.append(existing_movies[m_id])
+            item_data = existing_movies[m_id]
+            if "genres" not in item_data or not item_data["genres"]:
+                cat_str = item_data.get("category", "Film")
+                item_data["genres"] = [g.strip() for g in cat_str.split(",") if g.strip()]
+            final_movies.append(item_data)
             continue
             
         title = item.get("original_title", "")
@@ -128,6 +132,7 @@ def build_100k_catalog(movies_count=100000, series_count=100000):
             "tmdb_id": m_id,
             "title": title,
             "original_title": title,
+            "genres": ["Film"],
             "category": "Film",
             "platform": "Platform Dışı",
             "imdb_id": "",
@@ -139,7 +144,7 @@ def build_100k_catalog(movies_count=100000, series_count=100000):
         })
 
     with open(movie_file, "w", encoding="utf-8") as f:
-        json.dump(final_movies, f, ensure_ascii=False, separators=(',', ':'))
+        json.dump(final_movies, f, ensure_ascii=False, indent=2)
     m_size = os.path.getsize(movie_file) / (1024 * 1024)
     print(f"[✓] 'movies.json' hazırlandı: {len(final_movies)} Film ({m_size:.2f} MB)")
 
@@ -151,7 +156,11 @@ def build_100k_catalog(movies_count=100000, series_count=100000):
     for item in raw_series:
         s_id = item["id"]
         if s_id in existing_series:
-            final_series.append(existing_series[s_id])
+            item_data = existing_series[s_id]
+            if "genres" not in item_data or not item_data["genres"]:
+                cat_str = item_data.get("category", "Dizi")
+                item_data["genres"] = [g.strip() for g in cat_str.split(",") if g.strip()]
+            final_series.append(item_data)
             continue
             
         name = item.get("original_name", "")
@@ -162,6 +171,7 @@ def build_100k_catalog(movies_count=100000, series_count=100000):
             "tmdb_id": s_id,
             "title": name,
             "original_title": name,
+            "genres": ["Dizi"],
             "category": "Dizi",
             "platform": "Platform Dışı",
             "imdb_id": "",
@@ -173,7 +183,7 @@ def build_100k_catalog(movies_count=100000, series_count=100000):
         })
 
     with open(series_file, "w", encoding="utf-8") as f:
-        json.dump(final_series, f, ensure_ascii=False, separators=(',', ':'))
+        json.dump(final_series, f, ensure_ascii=False, indent=2)
     s_size = os.path.getsize(series_file) / (1024 * 1024)
     print(f"[✓] 'series.json' hazırlandı: {len(final_series)} Dizi ({s_size:.2f} MB)")
 
@@ -181,7 +191,7 @@ def build_100k_catalog(movies_count=100000, series_count=100000):
     catalog_file = os.path.join(DATA_DIR, "catalog.json")
     print(f"[*] 'catalog.json' birleşik katalog oluşturuluyor ({len(final_movies) + len(final_series)} içerik)...")
     with open(catalog_file, "w", encoding="utf-8") as f:
-        json.dump(final_movies + final_series, f, ensure_ascii=False, separators=(',', ':'))
+        json.dump(final_movies + final_series, f, ensure_ascii=False, indent=2)
     c_size = os.path.getsize(catalog_file) / (1024 * 1024)
     print(f"[✓] 'catalog.json' hazırlandı: {len(final_movies) + len(final_series)} İçerik ({c_size:.2f} MB)")
 

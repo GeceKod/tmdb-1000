@@ -67,7 +67,7 @@ def fetch_turkish_content(media_type="movie", max_pages=50):
             else:
                 url = build_zstream_tv_url(m_id, orig_title or title)
                 
-            categories = resolve_categories(item, media_type)
+            categories_str, genres_list = resolve_categories(item, media_type)
             platform = resolve_platform(item)
             
             results.append({
@@ -75,9 +75,10 @@ def fetch_turkish_content(media_type="movie", max_pages=50):
                 "tmdb_id": m_id,
                 "title": title or orig_title or "",
                 "original_title": orig_title or title or "",
-                "category": categories,
+                "genres": genres_list,
+                "category": categories_str,
                 "platform": platform,
-                "imdb_id": "", # Detay sayfasında veya arka planda çözümlenir
+                "imdb_id": "",
                 "imdb": rating,
                 "year": year,
                 "added_date": today_str,
@@ -140,7 +141,7 @@ def fetch_global_popular(media_type="movie", target_count=10000, existing_ids=No
             else:
                 url = build_zstream_tv_url(m_id, orig_title or title)
                 
-            categories = resolve_categories(item, media_type)
+            categories_str, genres_list = resolve_categories(item, media_type)
             platform = resolve_platform(item)
             
             results.append({
@@ -148,7 +149,8 @@ def fetch_global_popular(media_type="movie", target_count=10000, existing_ids=No
                 "tmdb_id": m_id,
                 "title": title or orig_title or "",
                 "original_title": orig_title or title or "",
-                "category": categories,
+                "genres": genres_list,
+                "category": categories_str,
                 "platform": platform,
                 "imdb_id": "",
                 "imdb": rating,
