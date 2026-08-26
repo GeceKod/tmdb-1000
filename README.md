@@ -82,11 +82,19 @@ python -m unittest tests/test_catalog.py
 
 ## 📱 Güneş TV Entegrasyonu
 
-GitHub'a repoyu yükledikten sonra Güneş TV uygulamanızda kaynak eklerken şu doğrudan (raw) bağlantıları kullanabilirsiniz:
+Güneş TV uygulamanızda VOD kaynak listesi eklerken doğrudan aşağıdaki **Raw bağlantıları** kullanabilirsiniz:
 
-* **Film Kaynağı URL'si:**
-  `https://raw.githubusercontent.com/<KULLANICI_ADINIZ>/<REPO_ADINIZ>/main/data/movies.json`
-* **Dizi Kaynağı URL'si:**
-  `https://raw.githubusercontent.com/<KULLANICI_ADINIZ>/<REPO_ADINIZ>/main/data/series.json`
+* **🎬 Film Kaynağı (Movies):**
+  ```text
+  https://raw.githubusercontent.com/GeceKod/tmdb-1000/main/data/movies.json
+  ```
+* **📺 Dizi Kaynağı (Series):**
+  ```text
+  https://raw.githubusercontent.com/GeceKod/tmdb-1000/main/data/series.json
+  ```
+* **🧪 Örnek Test Kataloğu (Sample):**
+  ```text
+  https://raw.githubusercontent.com/GeceKod/tmdb-1000/main/data/sample_catalog.json
+  ```
 
 Kullanıcı kartı tıkladığında `TmdbMetadataFetcher.kt` eksik olan tüm detayları (oyuncular, fragman, Türkçe özet, bölüm listesi) anında cihazın sistem dilinde canlı olarak çekecektir.
