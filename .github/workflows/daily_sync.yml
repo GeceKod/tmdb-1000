@@ -1,0 +1,38 @@
+name: Daily Catalog Sync
+
+on:
+  schedule:
+    # Her gün saat 08:30 UTC (Türkiye saatiyle 11:30)
+    - cron: '30 8 * * *'
+  workflow_dispatch: # GitHub arayüzünden manuel tek tıkla çalıştırma desteği
+
+jobs:
+  update-catalog:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Repoyu Klonla
+        uses: actions/checkout@v4
+
+      - name: Python Ortamını Kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Günlük Güncelleme Botunu Çalıştır
+        run: |
+          python scripts/update_daily.py --limit 100
+
+      - name: Değişiklikleri Git'e Commit ve Push Et
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Gunes-TV-Catalog-Bot"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "Herhangi bir değişiklik yok, commit atlanıyor."
+          else
+            git commit -m "Auto Update: Günlük Yeni Film & Dizi Bölümleri [$(date +'%Y-%m-%d')]"
+            git push
+          fi
