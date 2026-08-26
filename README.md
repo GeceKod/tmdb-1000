@@ -84,17 +84,17 @@ python -m unittest tests/test_catalog.py
 
 Güneş TV uygulamanızda VOD kaynak listesi eklerken doğrudan aşağıdaki **Raw bağlantıları** kullanabilirsiniz:
 
-* **🌟 Birleşik Tüm Katalog (Film + Dizi Birlikte - 4.000+ İçerik):**
+* **🌟 Birleşik Tüm Katalog (100.000 Film + 100.000 Dizi = 200.000 İçerik):**
   ```text
   https://raw.githubusercontent.com/GeceKod/tmdb-1000/main/data/catalog.json
   ```
 
-* **🎬 Sadece Film Kaynağı (Movies - 2.000 İçerik):**
+* **🎬 Sadece Film Kaynağı (Movies - 100.000 Film):**
   ```text
   https://raw.githubusercontent.com/GeceKod/tmdb-1000/main/data/movies.json
   ```
 
-* **📺 Sadece Dizi Kaynağı (Series - 2.000 İçerik):**
+* **📺 Sadece Dizi Kaynağı (Series - 100.000 Dizi):**
   ```text
   https://raw.githubusercontent.com/GeceKod/tmdb-1000/main/data/series.json
   ```

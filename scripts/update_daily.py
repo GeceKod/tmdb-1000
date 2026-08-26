@@ -41,7 +41,7 @@ def save_json(data, filename):
     os.makedirs(DATA_DIR, exist_ok=True)
     filepath = os.path.join(DATA_DIR, filename)
     with open(filepath, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
+        json.dump(data, f, ensure_ascii=False, separators=(',', ':'))
     file_size_mb = os.path.getsize(filepath) / (1024 * 1024)
     print(f"[+] '{filename}' güncellendi: {len(data)} içerik ({file_size_mb:.2f} MB)")
 
