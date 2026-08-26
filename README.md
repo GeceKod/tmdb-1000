@@ -22,9 +22,9 @@ Bu depo; TMDB üzerindeki en popüler ve yeni **100.000 Film** ile **100.000 Diz
 │   └── workflows/
 │       └── daily_sync.yml          # Her gün 08:30 UTC'de çalışan GitHub Action
 ├── data/
-│   ├── movies.json                 # Minimal Film Kataloğu
-│   ├── series.json                 # Minimal Dizi Kataloğu
-│   └── sample_catalog.json         # Test / Örnek Katalog
+│   ├── catalog.json                # 🌟 Birleşik Tüm Katalog (Film + Dizi - 4.000 İçerik)
+│   ├── movies.json                 # Sadece Filmler (2.000 İçerik)
+│   └── series.json                 # Sadece Diziler (2.000 İçerik)
 ├── scripts/
 │   ├── config.py                   # TMDB ve Z-Stream sabitleri
 │   ├── tmdb_client.py              # TMDB API istemcisi & URL oluşturucu
@@ -84,17 +84,19 @@ python -m unittest tests/test_catalog.py
 
 Güneş TV uygulamanızda VOD kaynak listesi eklerken doğrudan aşağıdaki **Raw bağlantıları** kullanabilirsiniz:
 
-* **🎬 Film Kaynağı (Movies):**
+* **🌟 Birleşik Tüm Katalog (Film + Dizi Birlikte - 4.000+ İçerik):**
+  ```text
+  https://raw.githubusercontent.com/GeceKod/tmdb-1000/main/data/catalog.json
+  ```
+
+* **🎬 Sadece Film Kaynağı (Movies - 2.000 İçerik):**
   ```text
   https://raw.githubusercontent.com/GeceKod/tmdb-1000/main/data/movies.json
   ```
-* **📺 Dizi Kaynağı (Series):**
+
+* **📺 Sadece Dizi Kaynağı (Series - 2.000 İçerik):**
   ```text
   https://raw.githubusercontent.com/GeceKod/tmdb-1000/main/data/series.json
-  ```
-* **🧪 Örnek Test Kataloğu (Sample):**
-  ```text
-  https://raw.githubusercontent.com/GeceKod/tmdb-1000/main/data/sample_catalog.json
   ```
 
 Kullanıcı kartı tıkladığında `TmdbMetadataFetcher.kt` eksik olan tüm detayları (oyuncular, fragman, Türkçe özet, bölüm listesi) anında cihazın sistem dilinde canlı olarak çekecektir.

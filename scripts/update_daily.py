@@ -199,6 +199,11 @@ def main():
     if movie_changes:
         update_catalog("movie", movie_changes[:args.limit])
 
+    # 3. Birleşik Tüm Katalog (catalog.json) Güncelle
+    all_movies = load_json("movies.json")
+    all_series = load_json("series.json")
+    save_json(all_movies + all_series, "catalog.json")
+
     print("\n" + "=" * 60)
     print("GÜNLÜK GÜNCELLEME BAŞARIYLA TAMAMLANDI!")
     print("=" * 60)

@@ -190,26 +190,25 @@ def main():
         max_tr_pages = 2
         tr_movies_limit = 50
         tr_series_limit = 50
-        target_movies = 100
-        target_series = 100
+        global_movies_target = 50
+        global_series_target = 50
     else:
-        max_tr_pages = 100
-        tr_movies_limit = 50000
-        tr_series_limit = 10000
-        target_movies = args.movies
-        target_series = args.series
+        max_tr_pages = 50 # 1000 Türk içeriği
+        tr_movies_limit = 1000
+        tr_series_limit = 1000
+        global_movies_target = args.movies
+        global_series_target = args.series
 
     print("=" * 60)
     print(f"GÜNEŞ TV KATALOG ÜRETİMİ BAŞLATILIYOR")
-    print(f"Hedef: {target_movies} Film | {target_series} Dizi")
+    print(f"Hedef: {tr_movies_limit} Yerli + {global_movies_target} Global Film | {tr_series_limit} Yerli + {global_series_target} Global Dizi")
     print(f"Tarih: {format_turkish_date()}")
     print("=" * 60)
 
     # 1. FİLMLER
     turkish_movies = fetch_turkish_content("movie", max_pages=max_tr_pages)[:tr_movies_limit]
     existing_movie_ids = {m["tmdb_id"] for m in turkish_movies}
-    needed_global_movies = max(0, target_movies - len(turkish_movies))
-    global_movies = fetch_global_popular("movie", needed_global_movies, existing_movie_ids)
+    global_movies = fetch_global_popular("movie", global_movies_target, existing_movie_ids)
     
     all_movies = turkish_movies + global_movies
     save_json(all_movies, "movies.json")
@@ -217,20 +216,20 @@ def main():
     # 2. DİZİLER
     turkish_series = fetch_turkish_content("tv", max_pages=max_tr_pages)[:tr_series_limit]
     existing_series_ids = {s["tmdb_id"] for s in turkish_series}
-    needed_global_series = max(0, target_series - len(turkish_series))
-    global_series = fetch_global_popular("tv", needed_global_series, existing_series_ids)
+    global_series = fetch_global_popular("tv", global_series_target, existing_series_ids)
     
     all_series = turkish_series + global_series
     save_json(all_series, "series.json")
 
-    # 3. İsteğe bağlı birleşik sample catalog
-    sample_catalog = all_movies[:50] + all_series[:50]
-    save_json(sample_catalog, "sample_catalog.json")
+    # 3. Birleşik Tüm Katalog (Movies + Series)
+    full_catalog = all_movies + all_series
+    save_json(full_catalog, "catalog.json")
 
     print("\n" + "=" * 60)
     print("KATALOG ÜRETİMİ TAMAMLANDI!")
     print(f"Toplam Film: {len(all_movies)}")
     print(f"Toplam Dizi: {len(all_series)}")
+    print(f"Toplam Birleşik Katalog: {len(full_catalog)}")
     print("=" * 60)
 
 if __name__ == "__main__":
