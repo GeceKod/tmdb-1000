@@ -90,12 +90,33 @@ def fetch_tv_seasons_info(tv_id):
         req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
         with urllib.request.urlopen(req, timeout=8) as resp:
             data = json.loads(resp.read().decode('utf-8'))
+            today_str = datetime.now().strftime("%Y-%m-%d")
+            last_ep = data.get("last_episode_to_air") or {}
+            last_season_num = last_ep.get("season_number") if isinstance(last_ep, dict) else None
+            last_ep_num = last_ep.get("episode_number") if isinstance(last_ep, dict) else None
+            
             seasons_raw = data.get("seasons", [])
             seasons_info = []
             for s in seasons_raw:
                 s_num = s.get("season_number", 0)
                 ep_count = s.get("episode_count", 0)
-                if s_num > 0 and ep_count > 0:
+                season_air_date = s.get("air_date")
+                
+                if s_num <= 0 or ep_count <= 0:
+                    continue
+                    
+                # Henüz başlamamış gelecek sezonları atla
+                if season_air_date and season_air_date > today_str and (last_season_num is not None and s_num > last_season_num):
+                    continue
+                    
+                if last_season_num is not None:
+                    if s_num < last_season_num:
+                        seasons_info.append({"season_number": s_num, "episode_count": ep_count})
+                    elif s_num == last_season_num:
+                        valid_count = min(ep_count, last_ep_num) if last_ep_num else ep_count
+                        if valid_count > 0:
+                            seasons_info.append({"season_number": s_num, "episode_count": valid_count})
+                else:
                     seasons_info.append({"season_number": s_num, "episode_count": ep_count})
             
             orig_name = data.get("original_name") or data.get("name") or ""

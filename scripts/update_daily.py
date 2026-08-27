@@ -142,22 +142,42 @@ def convert_tmdb_item_to_model(tmdb_id, media_type="movie", today_str=None):
     }
 
     if media_type == "tv":
+        today_date_str = datetime.now().strftime("%Y-%m-%d")
+        last_ep = data.get("last_episode_to_air") or {}
+        last_season_num = last_ep.get("season_number") if isinstance(last_ep, dict) else None
+        last_ep_num = last_ep.get("episode_number") if isinstance(last_ep, dict) else None
+        
         seasons_raw = data.get("seasons", [])
         episodes = []
         for s in seasons_raw:
             s_num = s.get("season_number", 0)
             ep_count = s.get("episode_count", 0)
-            if s_num > 0 and ep_count > 0:
-                for ep_num in range(1, min(ep_count, 50) + 1):
-                    episodes.append({
-                        "title": f"{s_num}. Sezon {ep_num}. Bölüm",
-                        "url": f"{url}/{s_num}/{ep_num}",
-                        "videoUrl": f"{url}/{s_num}/{ep_num}"
-                    })
+            season_air_date = s.get("air_date")
+            
+            if s_num <= 0 or ep_count <= 0:
+                continue
+            if season_air_date and season_air_date > today_date_str and (last_season_num is not None and s_num > last_season_num):
+                continue
+                
+            if last_season_num is not None:
+                if s_num < last_season_num:
+                    max_ep = min(ep_count, 30)
+                elif s_num == last_season_num:
+                    max_ep = min(ep_count, last_ep_num) if last_ep_num else min(ep_count, 30)
+                else:
+                    continue
+            else:
+                max_ep = min(ep_count, 30)
+                
+            for ep_num in range(1, max_ep + 1):
+                episodes.append({
+                    "title": f"{s_num}. Sezon {ep_num}. Bölüm",
+                    "videoUrl": f"{url}/{s_num}/{ep_num}"
+                })
+                
         if not episodes:
             episodes = [{
                 "title": "1. Sezon 1. Bölüm",
-                "url": f"{url}/1/1",
                 "videoUrl": f"{url}/1/1"
             }]
         result["episodes"] = episodes
