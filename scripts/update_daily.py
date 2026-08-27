@@ -125,7 +125,7 @@ def convert_tmdb_item_to_model(tmdb_id, media_type="movie", today_str=None):
     categories_str, genres_list = resolve_categories(data, media_type)
     platform = resolve_platform(data)
     
-    return {
+    result = {
         "type": "film" if media_type == "movie" else "dizi",
         "tmdb_id": tmdb_id,
         "title": title or orig_title or "",
@@ -140,6 +140,29 @@ def convert_tmdb_item_to_model(tmdb_id, media_type="movie", today_str=None):
         "poster": poster_url,
         "url": url
     }
+
+    if media_type == "tv":
+        seasons_raw = data.get("seasons", [])
+        episodes = []
+        for s in seasons_raw:
+            s_num = s.get("season_number", 0)
+            ep_count = s.get("episode_count", 0)
+            if s_num > 0 and ep_count > 0:
+                for ep_num in range(1, min(ep_count, 50) + 1):
+                    episodes.append({
+                        "title": f"{s_num}. Sezon {ep_num}. Bölüm",
+                        "url": f"{url}/{s_num}/{ep_num}",
+                        "videoUrl": f"{url}/{s_num}/{ep_num}"
+                    })
+        if not episodes:
+            episodes = [{
+                "title": "1. Sezon 1. Bölüm",
+                "url": f"{url}/1/1",
+                "videoUrl": f"{url}/1/1"
+            }]
+        result["episodes"] = episodes
+
+    return result
 
 def update_catalog(media_type="movie", target_ids=None):
     """
