@@ -1,6 +1,1728 @@
 [
   {
     "type": "film",
+    "tmdb_id": 1755137,
+    "title": "Kurt Saviour Meets World",
+    "original_title": "Kurt Saviour Meets World",
+    "genres": [
+      "Film"
+    ],
+    "category": "Film",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "",
+    "url": "https://zstream.mov/media/tmdb-movie-1755137-kurt-saviour-meets-world"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1754114,
+    "title": "A Deadly Harrowing Disturbance",
+    "original_title": "A Deadly Harrowing Disturbance",
+    "genres": [
+      "Komedi",
+      "Korku"
+    ],
+    "category": "Komedi, Korku",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt43731906",
+    "imdb": "",
+    "year": "2024",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/3IRjSrQylDbUTyFCEMsBYuHVtKw.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1754114-a-deadly-harrowing-disturbance"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 331781,
+    "title": "Amy",
+    "original_title": "Amy",
+    "genres": [
+      "Belgesel",
+      "Müzik"
+    ],
+    "category": "Belgesel, Müzik",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt2870648",
+    "imdb": "7.6",
+    "year": "2015",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/mHeJS9ow6dlbMnCaQ9f5oTk4kAd.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-331781-amy"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 254470,
+    "title": "Mükemmel Uyum 2",
+    "original_title": "Pitch Perfect 2",
+    "genres": [
+      "Komedi",
+      "Müzik"
+    ],
+    "category": "Komedi, Müzik",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt2848292",
+    "imdb": "6.8",
+    "year": "2015",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/sWAam7hah4db14ov9bPgOsbPzIE.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-254470-pitch-perfect-2"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1736714,
+    "title": "If You Were…",
+    "original_title": "If You Were…",
+    "genres": [
+      "Romantik",
+      "Dram"
+    ],
+    "category": "Romantik, Dram",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/r0xL4TkJaebxn8qHh0u99zOX7NW.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1736714-if-you-were"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 266764,
+    "title": "Meet the Patels",
+    "original_title": "Meet the Patels",
+    "genres": [
+      "Romantik",
+      "Komedi",
+      "Belgesel"
+    ],
+    "category": "Romantik, Komedi, Belgesel",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt2378401",
+    "imdb": "7.0",
+    "year": "2014",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/qPefACwGVov9QlJZI3GfxPzhaiZ.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-266764-meet-the-patels"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 299534,
+    "title": "Avengers: Endgame",
+    "original_title": "Avengers: Endgame",
+    "genres": [
+      "Macera",
+      "Bilim Kurgu",
+      "Aksiyon"
+    ],
+    "category": "Macera, Bilim Kurgu, Aksiyon",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt4154796",
+    "imdb": "8.2",
+    "year": "2019",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/zx1uMVXSJrzYCA8KTpmeEBqBx66.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-299534-avengers-endgame"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1755153,
+    "title": "1926: Una copla y una riada",
+    "original_title": "1926: Una copla y una riada",
+    "genres": [
+      "Tarih",
+      "Belgesel"
+    ],
+    "category": "Tarih, Belgesel",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "10.0",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/1k4oRk9P1OO958IOoHS2t7ojffE.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1755153-1926-una-copla-y-una-riada"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1752085,
+    "title": "A man going his own way",
+    "original_title": "A man going his own way",
+    "genres": [
+      "Film"
+    ],
+    "category": "Film",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "",
+    "url": "https://zstream.mov/media/tmdb-movie-1752085-a-man-going-his-own-way"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1753621,
+    "title": "La muerte de Drácula",
+    "original_title": "La muerte de Drácula",
+    "genres": [
+      "Komedi",
+      "Korku"
+    ],
+    "category": "Komedi, Korku",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt40000635",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "",
+    "url": "https://zstream.mov/media/tmdb-movie-1753621-la-muerte-de-dr-cula"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1752088,
+    "title": "Mark‘s invisible hand",
+    "original_title": "Mark‘s invisible hand",
+    "genres": [
+      "Film"
+    ],
+    "category": "Film",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "",
+    "url": "https://zstream.mov/media/tmdb-movie-1752088-mark-s-invisible-hand"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 283161,
+    "title": "Ermiş",
+    "original_title": "Kahlil Gibran's The Prophet",
+    "genres": [
+      "Animasyon"
+    ],
+    "category": "Animasyon",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt1640718",
+    "imdb": "7.3",
+    "year": "2014",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/rkg2thsR4r4H02FVVW1M1FyqhpL.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-283161-kahlil-gibran-s-the-prophet"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1738266,
+    "title": "Reel Birmingham",
+    "original_title": "Reel Birmingham",
+    "genres": [
+      "Film"
+    ],
+    "category": "Film",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "",
+    "url": "https://zstream.mov/media/tmdb-movie-1738266-reel-birmingham"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1752090,
+    "title": "Speak up",
+    "original_title": "Speak up",
+    "genres": [
+      "Film"
+    ],
+    "category": "Film",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "",
+    "url": "https://zstream.mov/media/tmdb-movie-1752090-speak-up"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 163355,
+    "title": "Cosmic Zoom",
+    "original_title": "Cosmic Zoom",
+    "genres": [
+      "Animasyon",
+      "Belgesel"
+    ],
+    "category": "Animasyon, Belgesel",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt0223046",
+    "imdb": "6.5",
+    "year": "1968",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/o6BkY3KgUd4LU7ay19fWo944XcO.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-163355-cosmic-zoom"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1738269,
+    "title": "Dawn",
+    "original_title": "Dawn",
+    "genres": [
+      "Film"
+    ],
+    "category": "Film",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "",
+    "url": "https://zstream.mov/media/tmdb-movie-1738269-dawn"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1277982,
+    "title": "Kukeri",
+    "original_title": "Kukeri",
+    "genres": [
+      "Korku",
+      "Gerilim"
+    ],
+    "category": "Korku, Gerilim",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "2025",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/f8wGwNGlhahW6UyGm9YoqU3WLMT.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1277982-kukeri"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1738271,
+    "title": "What's My Name?",
+    "original_title": "What's My Name?",
+    "genres": [
+      "Film"
+    ],
+    "category": "Film",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "",
+    "url": "https://zstream.mov/media/tmdb-movie-1738271-what-s-my-name"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1738273,
+    "title": "Freedom of the Press",
+    "original_title": "Freedom of the Press",
+    "genres": [
+      "Film"
+    ],
+    "category": "Film",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "",
+    "url": "https://zstream.mov/media/tmdb-movie-1738273-freedom-of-the-press"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1738274,
+    "title": "The Day Is Not Lost",
+    "original_title": "The Day Is Not Lost",
+    "genres": [
+      "Film"
+    ],
+    "category": "Film",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "",
+    "url": "https://zstream.mov/media/tmdb-movie-1738274-the-day-is-not-lost"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1756705,
+    "title": "Visitor",
+    "original_title": "Visitor",
+    "genres": [
+      "Dram"
+    ],
+    "category": "Dram",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt38595519",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/wUOwmoFvZvOqCyNi7Ab3kmERHkv.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1756705-visitor"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1738277,
+    "title": "Chip",
+    "original_title": "Chip",
+    "genres": [
+      "Film"
+    ],
+    "category": "Film",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "",
+    "url": "https://zstream.mov/media/tmdb-movie-1738277-chip"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1753126,
+    "title": "Eine Wingwoman verliebt sich nicht",
+    "original_title": "Eine Wingwoman verliebt sich nicht",
+    "genres": [
+      "Film"
+    ],
+    "category": "Film",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "5.0",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "",
+    "url": "https://zstream.mov/media/tmdb-movie-1753126-eine-wingwoman-verliebt-sich-nicht"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 455207,
+    "title": "Çılgın Zengin Asyalılar",
+    "original_title": "Crazy Rich Asians",
+    "genres": [
+      "Komedi",
+      "Romantik"
+    ],
+    "category": "Komedi, Romantik",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt3104988",
+    "imdb": "7.0",
+    "year": "2018",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/1XxL4LJ5WHdrcYcihEZUCgNCpAW.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-455207-crazy-rich-asians"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1738280,
+    "title": "Loco",
+    "original_title": "Loco",
+    "genres": [
+      "Film"
+    ],
+    "category": "Film",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "",
+    "url": "https://zstream.mov/media/tmdb-movie-1738280-loco"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1737768,
+    "title": "The Robot Chicken [adult swim] 25th Anniversary Special",
+    "original_title": "The Robot Chicken [adult swim] 25th Anniversary Special",
+    "genres": [
+      "Animasyon",
+      "Komedi"
+    ],
+    "category": "Animasyon, Komedi",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt43621644",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/nqhFAT3XyK3gpyz8c0lTmWq1Xmr.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1737768-the-robot-chicken-adult-swim-25th-anniversary-special"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1738282,
+    "title": "The Sisters of Scott County",
+    "original_title": "The Sisters of Scott County",
+    "genres": [
+      "Film"
+    ],
+    "category": "Film",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "",
+    "url": "https://zstream.mov/media/tmdb-movie-1738282-the-sisters-of-scott-county"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 129067,
+    "title": "La Faim",
+    "original_title": "La Faim",
+    "genres": [
+      "Animasyon"
+    ],
+    "category": "Animasyon",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt0071636",
+    "imdb": "6.3",
+    "year": "1974",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/k0UpvZGqScD27Tw3zvDuTXbiPo1.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-129067-la-faim"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1738284,
+    "title": "A Night In",
+    "original_title": "A Night In",
+    "genres": [
+      "Film"
+    ],
+    "category": "Film",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "",
+    "url": "https://zstream.mov/media/tmdb-movie-1738284-a-night-in"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1738285,
+    "title": "Big Little Love",
+    "original_title": "Big Little Love",
+    "genres": [
+      "Film"
+    ],
+    "category": "Film",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "",
+    "url": "https://zstream.mov/media/tmdb-movie-1738285-big-little-love"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1756717,
+    "title": "Der Boxerkrieg - Das Ende des chinesischen Kaiserreichs",
+    "original_title": "Der Boxerkrieg - Das Ende des chinesischen Kaiserreichs",
+    "genres": [
+      "Belgesel"
+    ],
+    "category": "Belgesel",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "",
+    "url": "https://zstream.mov/media/tmdb-movie-1756717-der-boxerkrieg-das-ende-des-chinesischen-kaiserreichs"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1738287,
+    "title": "The Method",
+    "original_title": "The Method",
+    "genres": [
+      "Film"
+    ],
+    "category": "Film",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "",
+    "url": "https://zstream.mov/media/tmdb-movie-1738287-the-method"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1628720,
+    "title": "Pequenas Tragédias",
+    "original_title": "Pequenas Tragédias",
+    "genres": [
+      "Dram"
+    ],
+    "category": "Dram",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt39582189",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/u8flVVHtffh9vPGDfuKPrXlLDfX.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1628720-pequenas-trag-dias"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 243245,
+    "title": "My Financial Career",
+    "original_title": "My Financial Career",
+    "genres": [
+      "Animasyon"
+    ],
+    "category": "Animasyon",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt0057339",
+    "imdb": "6.7",
+    "year": "1962",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/r8RxRXTi3Bf46zLrbnElReGUcLI.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-243245-my-financial-career"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1714226,
+    "title": "Sang Suraksha",
+    "original_title": "Sang Suraksha",
+    "genres": [
+      "Belgesel"
+    ],
+    "category": "Belgesel",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/wOlpgCU1mWzUJR0lmp9ns2XdEEK.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1714226-sang-suraksha"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1630771,
+    "title": "The Rattlin' Bog",
+    "original_title": "The Rattlin' Bog",
+    "genres": [
+      "Gerilim",
+      "Korku",
+      "Komedi"
+    ],
+    "category": "Gerilim, Korku, Komedi",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt34460884",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/o0L65qUlIVYYTZRZuZdqtcqQBr1.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1630771-the-rattlin-bog"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1717811,
+    "title": "Rolling Film, Rocking History: Al Maysles Captures the Beatles",
+    "original_title": "Rolling Film, Rocking History: Al Maysles Captures the Beatles",
+    "genres": [
+      "Film"
+    ],
+    "category": "Film",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "",
+    "url": "https://zstream.mov/media/tmdb-movie-1717811-rolling-film-rocking-history-al-maysles-captures-the-beatles"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1756217,
+    "title": "El cuento de David",
+    "original_title": "El cuento de David",
+    "genres": [
+      "Suç"
+    ],
+    "category": "Suç",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt43530996",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/4IIFEljtHr74zSIPnr8hCDveYI8.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1756217-el-cuento-de-david"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 33343,
+    "title": "Gypsy 83",
+    "original_title": "Gypsy 83",
+    "genres": [
+      "Dram"
+    ],
+    "category": "Dram",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt0251110",
+    "imdb": "6.5",
+    "year": "2001",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/tGokj0bZyMLaUA96sdjfHRFjraJ.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-33343-gypsy-83"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1573445,
+    "title": "Canigó",
+    "original_title": "Canigó",
+    "genres": [
+      "Fantastik",
+      "Macera"
+    ],
+    "category": "Fantastik, Macera",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "10.0",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/2UJkifzUIQfXwtmDE98qskCs9GT.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1573445-canig"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1756742,
+    "title": "Out of Breath",
+    "original_title": "Out of Breath",
+    "genres": [
+      "Belgesel"
+    ],
+    "category": "Belgesel",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/cKnu9KN0HZ0JxzCU8RBp4d9xutU.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1756742-out-of-breath"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1753671,
+    "title": "Motka",
+    "original_title": "Motka",
+    "genres": [
+      "Dram"
+    ],
+    "category": "Dram",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt43707620",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/2vH4ocG4RhiIglTTSTVAsABwZ3X.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1753671-motka"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1444424,
+    "title": "Dogwood",
+    "original_title": "Dogwood",
+    "genres": [
+      "Vahşi Batı"
+    ],
+    "category": "Vahşi Batı",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt32775760",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/qwmzIhMQHr3EMOdXd6xNRj42DPK.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1444424-dogwood"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 511557,
+    "title": "The Basketball Game",
+    "original_title": "The Basketball Game",
+    "genres": [
+      "Animasyon"
+    ],
+    "category": "Animasyon",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt2146840",
+    "imdb": "6.0",
+    "year": "2011",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/kI9YPc01ewKZeDAnUT2dwdW4zyp.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-511557-the-basketball-game"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1752652,
+    "title": "Plonternish",
+    "original_title": "Plonternish",
+    "genres": [
+      "Dram",
+      "Komedi",
+      "Belgesel"
+    ],
+    "category": "Dram, Komedi, Belgesel",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/jvZgqVTiUb45QRIeItG5wZF5DY0.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1752652-plonternish"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 196173,
+    "title": "Village of Idiots",
+    "original_title": "Village of Idiots",
+    "genres": [
+      "Animasyon"
+    ],
+    "category": "Animasyon",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt0211106",
+    "imdb": "7.2",
+    "year": "1999",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/tz9GkvRGHFBaB5eG6Hc20E18xz3.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-196173-village-of-idiots"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1744462,
+    "title": "Grand Theft Auto VI: An Extended Look",
+    "original_title": "Grand Theft Auto VI: An Extended Look",
+    "genres": [
+      "Animasyon",
+      "Aksiyon",
+      "Macera",
+      "Suç"
+    ],
+    "category": "Animasyon, Aksiyon, Macera, Suç",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt43749709",
+    "imdb": "9.0",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/xTZuh9ziUjIyHBWO9OvqNIPqVWe.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1744462-grand-theft-auto-vi-an-extended-look"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 597,
+    "title": "Titanik",
+    "original_title": "Titanic",
+    "genres": [
+      "Dram",
+      "Romantik"
+    ],
+    "category": "Dram, Romantik",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt0120338",
+    "imdb": "7.9",
+    "year": "1997",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/hEntfzxB8yUXIxqZY929dELjLsi.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-597-titanic"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1756758,
+    "title": "Midnight Momo",
+    "original_title": "Midnight Momo",
+    "genres": [
+      "Komedi",
+      "Bilim Kurgu"
+    ],
+    "category": "Komedi, Bilim Kurgu",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "",
+    "url": "https://zstream.mov/media/tmdb-movie-1756758-midnight-momo"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1747544,
+    "title": "정기용, 감응의 건축: 무주 등나무운동장",
+    "original_title": "정기용, 감응의 건축: 무주 등나무운동장",
+    "genres": [
+      "Kore Yapımı",
+      "Belgesel"
+    ],
+    "category": "Kore Yapımı, Belgesel",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "",
+    "url": "https://zstream.mov/media/tmdb-movie-1747544"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1756765,
+    "title": "Burns Like A Shot",
+    "original_title": "Burns Like A Shot",
+    "genres": [
+      "Bilim Kurgu",
+      "Komedi"
+    ],
+    "category": "Bilim Kurgu, Komedi",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt44858305",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/goeoDliMMHBQMLhrXB4kCpYhN6r.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1756765-burns-like-a-shot"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1747550,
+    "title": "프레임 바이 프레임 : 다시, 영화의 시작으로",
+    "original_title": "프레임 바이 프레임 : 다시, 영화의 시작으로",
+    "genres": [
+      "Kore Yapımı",
+      "Belgesel"
+    ],
+    "category": "Kore Yapımı, Belgesel",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "",
+    "url": "https://zstream.mov/media/tmdb-movie-1747550"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1756767,
+    "title": "Moth",
+    "original_title": "Moth",
+    "genres": [
+      "Film"
+    ],
+    "category": "Film",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/vfcm98Rt9A073kTzKyh2T7bOQqZ.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1756767-moth"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 410718,
+    "title": "Tufandan Önce",
+    "original_title": "Before the Flood",
+    "genres": [
+      "Belgesel"
+    ],
+    "category": "Belgesel",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt5929776",
+    "imdb": "7.7",
+    "year": "2016",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/2fFTLaLbm8Ak7JBSYQ8Mb3jcFx9.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-410718-before-the-flood"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1319522,
+    "title": "โกฮัง..หัวใจโกโฮม",
+    "original_title": "โกฮัง..หัวใจโกโฮม",
+    "genres": [
+      "Dram"
+    ],
+    "category": "Dram",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt36958999",
+    "imdb": "7.0",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/bUmlrkJe411RzdVKBKLbRSJChem.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1319522"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 319075,
+    "title": "Cobain: Montage of Heck",
+    "original_title": "Cobain: Montage of Heck",
+    "genres": [
+      "Belgesel",
+      "Müzik"
+    ],
+    "category": "Belgesel, Müzik",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt4229236",
+    "imdb": "7.6",
+    "year": "2015",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/hQEkK4WnTtQXIp5QOnVTsK3xYRM.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-319075-cobain-montage-of-heck"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 98,
+    "title": "Gladyatör",
+    "original_title": "Gladiator",
+    "genres": [
+      "Aksiyon",
+      "Dram",
+      "Macera"
+    ],
+    "category": "Aksiyon, Dram, Macera",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt0172495",
+    "imdb": "8.2",
+    "year": "2000",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/wN2xWp1eIwCKOD0BHTcErTBv1Uq.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-98-gladiator"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1319525,
+    "title": "จีบซ้ำซ้ำ เฮนรี่จำไม่ได้",
+    "original_title": "จีบซ้ำซ้ำ เฮนรี่จำไม่ได้",
+    "genres": [
+      "Komedi",
+      "Romantik"
+    ],
+    "category": "Komedi, Romantik",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt44734424",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/qlw9WtySGW6AUdbkwgWUltvIAf3.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1319525"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 511486,
+    "title": "The Legend of the Flying Canoe",
+    "original_title": "The Legend of the Flying Canoe",
+    "genres": [
+      "Animasyon"
+    ],
+    "category": "Animasyon",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt0116849",
+    "imdb": "9.0",
+    "year": "1996",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/9cqIu9VB8TshkDAw0Hkt7vXnQ8g.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-511486-the-legend-of-the-flying-canoe"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1725544,
+    "title": "1 ROOM",
+    "original_title": "1 ROOM",
+    "genres": [
+      "Animasyon",
+      "Belgesel"
+    ],
+    "category": "Animasyon, Belgesel",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "2025",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "",
+    "url": "https://zstream.mov/media/tmdb-movie-1725544-1-room"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 241259,
+    "title": "Alis Harikalar Diyarında: Aynanın İçinden",
+    "original_title": "Alice Through the Looking Glass",
+    "genres": [
+      "Macera",
+      "Aile",
+      "Fantastik"
+    ],
+    "category": "Macera, Aile, Fantastik",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt2567026",
+    "imdb": "6.6",
+    "year": "2016",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/8mFQ7JGOdYbBmMz239F43FxWYgX.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-241259-alice-through-the-looking-glass"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 319091,
+    "title": "Av Sahası",
+    "original_title": "The Hunting Ground",
+    "genres": [
+      "Belgesel"
+    ],
+    "category": "Belgesel",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt4185572",
+    "imdb": "7.4",
+    "year": "2015",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/h1BsAt0pbBKhZvcs0Gjh2ZHy1V.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-319091-the-hunting-ground"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1614964,
+    "title": "가족여행",
+    "original_title": "가족여행",
+    "genres": [
+      "Kore Yapımı",
+      "Dram"
+    ],
+    "category": "Kore Yapımı, Dram",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/ab0jA90IuyjydjDe99lH51kA8BN.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1614964"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1756793,
+    "title": "Casi Una Estrella",
+    "original_title": "Casi Una Estrella",
+    "genres": [
+      "Dram",
+      "Komedi"
+    ],
+    "category": "Dram, Komedi",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/5tNGG9yvhBaPOki8PsqaXvNaNvQ.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1756793-casi-una-estrella"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1756802,
+    "title": "pera",
+    "original_title": "pera",
+    "genres": [
+      "Film"
+    ],
+    "category": "Film",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/jyNeEzdWVDxkX0ZU0VkcHhBs9OF.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1756802-pera"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1756803,
+    "title": "Masmorra do Zumbi Intergaláctico",
+    "original_title": "Masmorra do Zumbi Intergaláctico",
+    "genres": [
+      "Komedi"
+    ],
+    "category": "Komedi",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "2011",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/44GQoFnnvvleZDdh4zwADD6zLnO.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1756803-masmorra-do-zumbi-intergal-ctico"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1447559,
+    "title": "Bad Karaoke",
+    "original_title": "Bad Karaoke",
+    "genres": [
+      "Komedi",
+      "Korku"
+    ],
+    "category": "Komedi, Korku",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt33876476",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/2xzDsY9tueI3Dk8hYqPOHX9LdU9.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1447559-bad-karaoke"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1756807,
+    "title": "Na copa das árvores",
+    "original_title": "Na copa das árvores",
+    "genres": [
+      "Animasyon",
+      "Macera",
+      "Fantastik"
+    ],
+    "category": "Animasyon, Macera, Fantastik",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/uyflbSMS7Sg0SsaLxKyOBtTgaYG.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1756807-na-copa-das-rvores"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1756809,
+    "title": "Parsifal - Wiener Staatsoper",
+    "original_title": "Parsifal - Wiener Staatsoper",
+    "genres": [
+      "Müzik"
+    ],
+    "category": "Müzik",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "2017",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/jXGZ1i8mBP9T71zmXMWQOtfLY2s.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1756809-parsifal-wiener-staatsoper"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1756811,
+    "title": "Hoop sesh",
+    "original_title": "Hoop sesh",
+    "genres": [
+      "Komedi"
+    ],
+    "category": "Komedi",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt44840806",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "",
+    "url": "https://zstream.mov/media/tmdb-movie-1756811-hoop-sesh"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1756812,
+    "title": "Maëlle",
+    "original_title": "Maëlle",
+    "genres": [
+      "Romantik",
+      "Dram"
+    ],
+    "category": "Romantik, Dram",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt39310401",
+    "imdb": "",
+    "year": "",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/2leq34Q3oAm1W16te0RYdM6gJk8.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1756812-ma-lle"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 860301,
+    "title": "Secrets of Her Majesty's Secret Service",
+    "original_title": "Secrets of Her Majesty's Secret Service",
+    "genres": [
+      "Belgesel"
+    ],
+    "category": "Belgesel",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt3821142",
+    "imdb": "",
+    "year": "2014",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/pZPMOpK5CaItiUhftMJZGCK6FKE.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-860301-secrets-of-her-majesty-s-secret-service"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1756813,
+    "title": "D.W. Griffith: An American Genius",
+    "original_title": "D.W. Griffith: An American Genius",
+    "genres": [
+      "Belgesel"
+    ],
+    "category": "Belgesel",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "1975",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/nKeAW1SjiYg3lYqVwYw2CTTapVQ.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1756813-d-w-griffith-an-american-genius"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1723535,
+    "title": "舞台「鬼滅の刃」其ノ陸 柱稽古・無限城 突入",
+    "original_title": "舞台「鬼滅の刃」其ノ陸 柱稽古・無限城 突入",
+    "genres": [
+      "Film"
+    ],
+    "category": "Film",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/6rbwGqp1DH1u8PAmbUqFMThwjAu.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1723535"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 142,
+    "title": "Brokeback Dağı",
+    "original_title": "Brokeback Mountain",
+    "genres": [
+      "Dram",
+      "Romantik"
+    ],
+    "category": "Dram, Romantik",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt0388795",
+    "imdb": "7.8",
+    "year": "2005",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/lqaoMO0unKUDaJVqWTmFHvHQZbM.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-142-brokeback-mountain"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 141,
+    "title": "Karanlık Yolculuk",
+    "original_title": "Donnie Darko",
+    "genres": [
+      "Fantastik",
+      "Dram",
+      "Gizem"
+    ],
+    "category": "Fantastik, Dram, Gizem",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt0246578",
+    "imdb": "7.8",
+    "year": "2001",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/j2AtZFsflxiluaNtajMTI0Avm8C.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-141-donnie-darko"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1756814,
+    "title": "What's Mine",
+    "original_title": "What's Mine",
+    "genres": [
+      "Aksiyon",
+      "Macera"
+    ],
+    "category": "Aksiyon, Macera",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "10.0",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/esI4a5iwwGOzWLUxFJcUEzYEmk4.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1756814-what-s-mine"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1756815,
+    "title": "Minotauro Fight 5",
+    "original_title": "Minotauro Fight 5",
+    "genres": [
+      "Belgesel",
+      "Aksiyon"
+    ],
+    "category": "Belgesel, Aksiyon",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "2007",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/by9MWqmDZQngBJK7VhvUg9EZPoD.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1756815-minotauro-fight-5"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1756816,
+    "title": "Nagbabagang Asero",
+    "original_title": "Nagbabagang Asero",
+    "genres": [
+      "Dram",
+      "Aksiyon"
+    ],
+    "category": "Dram, Aksiyon",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt2137144",
+    "imdb": "5.0",
+    "year": "1977",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "",
+    "url": "https://zstream.mov/media/tmdb-movie-1756816-nagbabagang-asero"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1750165,
+    "title": "NXT Heatwave 2026",
+    "original_title": "NXT Heatwave 2026",
+    "genres": [
+      "Aksiyon"
+    ],
+    "category": "Aksiyon",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/rcBcZpRISLKqBstSrMI3b5zoSA0.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1750165-nxt-heatwave-2026"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1655446,
+    "title": "Takkuuk",
+    "original_title": "Takkuuk",
+    "genres": [
+      "Film"
+    ],
+    "category": "Film",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "",
+    "url": "https://zstream.mov/media/tmdb-movie-1655446-takkuuk"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1756817,
+    "title": "Before Another Sleep",
+    "original_title": "Before Another Sleep",
+    "genres": [
+      "Gerilim"
+    ],
+    "category": "Gerilim",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "2025",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/mKfsvXmVJN79YUmpVfwxTo4XDeA.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1756817-before-another-sleep"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1756818,
+    "title": "Who Should I Be In The World?",
+    "original_title": "Who Should I Be In The World?",
+    "genres": [
+      "Animasyon",
+      "Belgesel"
+    ],
+    "category": "Animasyon, Belgesel",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt14364220",
+    "imdb": "",
+    "year": "2020",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/uIirsQpNC7XXlKBkGAJZNsi5lkz.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1756818-who-should-i-be-in-the-world"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1756819,
+    "title": "Apartment 7",
+    "original_title": "Apartment 7",
+    "genres": [
+      "Romantik",
+      "Komedi",
+      "Dram"
+    ],
+    "category": "Romantik, Komedi, Dram",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt39978539",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/3OxIOFFjEAetReskR7p68Weiwf.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1756819-apartment-7"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1516698,
+    "title": "Son Gün Doğumu",
+    "original_title": "The Last Sunrise",
+    "genres": [
+      "Romantik",
+      "Dram"
+    ],
+    "category": "Romantik, Dram",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt37654096",
+    "imdb": "7.4",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/xqqbvvvdwg2t5g1dK23bCTNk4yX.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1516698-the-last-sunrise"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1750171,
+    "title": "AAA Ola de Calor 2026",
+    "original_title": "AAA Ola de Calor 2026",
+    "genres": [
+      "Aksiyon"
+    ],
+    "category": "Aksiyon",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/mWIn8T3B01luyi3tFS8eBrxheUA.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1750171-aaa-ola-de-calor-2026"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1756820,
+    "title": "Hivernale",
+    "original_title": "Hivernale",
+    "genres": [
+      "Film"
+    ],
+    "category": "Film",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "2025",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/6mBRUNZC9pYpWF7iyvCRb46l8EN.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1756820-hivernale"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1756821,
+    "title": "O Retrato da Lua",
+    "original_title": "O Retrato da Lua",
+    "genres": [
+      "Dram",
+      "Fantastik",
+      "Aile"
+    ],
+    "category": "Dram, Fantastik, Aile",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "2013",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/twJtuzscxaPMQE9wyHwlEBGGKcC.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1756821-o-retrato-da-lua"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 387746,
+    "title": "Hors-d'oeuvre",
+    "original_title": "Hors-d'oeuvre",
+    "genres": [
+      "Animasyon"
+    ],
+    "category": "Animasyon",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt0226777",
+    "imdb": "9.0",
+    "year": "1960",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/vC0t0Wn37U79tbK55vQGu0yhlBs.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-387746-hors-d-oeuvre"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1744549,
+    "title": "Do You Want to Play",
+    "original_title": "Do You Want to Play",
+    "genres": [
+      "Film"
+    ],
+    "category": "Film",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt37147095",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/vZr3WQhXliMb4u6CaHJXYFOvHcq.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1744549-do-you-want-to-play"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1756325,
+    "title": "Üç Harfliler: Mühür",
+    "original_title": "Üç Harfliler: Mühür",
+    "genres": [
+      "Türk Yapımı"
+    ],
+    "category": "Türk Yapımı",
+    "platform": "Yerli",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "",
+    "url": "https://zstream.mov/media/tmdb-movie-1756325-harfliler-m-h-r"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1739943,
+    "title": "Мрія Кіри",
+    "original_title": "Мрія Кіри",
+    "genres": [
+      "Film"
+    ],
+    "category": "Film",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt14107436",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/4jK7siR8F00oaMuIjDvz2FFVwLU.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1739943"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1540777,
+    "title": "Staging",
+    "original_title": "Staging",
+    "genres": [
+      "Dram"
+    ],
+    "category": "Dram",
+    "platform": "Platform Dışı",
+    "imdb_id": "",
+    "imdb": "",
+    "year": "2027",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/gw28Ao8fJe5VN74PhVRi0B6C3OQ.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1540777-staging"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1314481,
+    "title": "Şeytan Marka Giyer 2",
+    "original_title": "The Devil Wears Prada 2",
+    "genres": [
+      "Komedi",
+      "Dram"
+    ],
+    "category": "Komedi, Dram",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt33612209",
+    "imdb": "7.1",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/hPlQcLyL7J58mPzY8tRmS2wmfbN.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1314481-the-devil-wears-prada-2"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 353973,
+    "title": "BAM",
+    "original_title": "BAM",
+    "genres": [
+      "Animasyon",
+      "Dram"
+    ],
+    "category": "Animasyon, Dram",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt5872292",
+    "imdb": "4.0",
+    "year": "2015",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/vrQ3sgDhe5ttbolN7RRcTUwiTB8.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-353973-bam"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 1756343,
+    "title": "Красный экран",
+    "original_title": "Красный экран",
+    "genres": [
+      "Korku",
+      "Gerilim"
+    ],
+    "category": "Korku, Gerilim",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt38580996",
+    "imdb": "",
+    "year": "2026",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/9bE4AzXkr5fpGBLgRaLNqb4fl6J.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-1756343"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 376502,
+    "title": "The Blackout Experiments",
+    "original_title": "The Blackout Experiments",
+    "genres": [
+      "Korku",
+      "Belgesel"
+    ],
+    "category": "Korku, Belgesel",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt5222646",
+    "imdb": "4.7",
+    "year": "2016",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/gvul3ehSrg0APU3GTJojCS44Jy5.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-376502-the-blackout-experiments"
+  },
+  {
+    "type": "film",
+    "tmdb_id": 286908,
+    "title": "64,000,000 Years Ago",
+    "original_title": "64,000,000 Years Ago",
+    "genres": [
+      "Animasyon"
+    ],
+    "category": "Animasyon",
+    "platform": "Platform Dışı",
+    "imdb_id": "tt0224575",
+    "imdb": "8.0",
+    "year": "1981",
+    "added_date": "28 Ağustos, 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/xUitXhCbG6P0wbfNIPFxuth3NM9.jpg",
+    "url": "https://zstream.mov/media/tmdb-movie-286908-64-000-000-years-ago"
+  },
+  {
+    "type": "film",
     "tmdb_id": 969681,
     "title": "Örümcek-Adam: Yepyeni Bir Gün",
     "original_title": "Spider-Man: Brand New Day",
@@ -129,23 +1851,6 @@
     "genres": [
       "Korku",
       "Gerilim"
-    ]
-  },
-  {
-    "type": "film",
-    "tmdb_id": 1516698,
-    "title": "The Last Sunrise",
-    "original_title": "The Last Sunrise",
-    "category": "Film",
-    "platform": "Platform Dışı",
-    "imdb_id": "",
-    "imdb": "",
-    "year": "",
-    "added_date": "26 Ağustos, 2026",
-    "poster": "",
-    "url": "https://zstream.mov/media/tmdb-movie-1516698-the-last-sunrise",
-    "genres": [
-      "Film"
     ]
   },
   {
@@ -1088,43 +2793,6 @@
       "Aksiyon",
       "Macera",
       "Bilim Kurgu"
-    ]
-  },
-  {
-    "type": "film",
-    "tmdb_id": 1314481,
-    "title": "Şeytan Marka Giyer 2",
-    "original_title": "The Devil Wears Prada 2",
-    "category": "Komedi, Dram",
-    "platform": "Platform Dışı",
-    "imdb_id": "",
-    "imdb": "7.1",
-    "year": "2026",
-    "added_date": "26 Ağustos, 2026",
-    "poster": "https://image.tmdb.org/t/p/w500/hPlQcLyL7J58mPzY8tRmS2wmfbN.jpg",
-    "url": "https://zstream.mov/media/tmdb-movie-1314481-the-devil-wears-prada-2",
-    "genres": [
-      "Komedi",
-      "Dram"
-    ]
-  },
-  {
-    "type": "film",
-    "tmdb_id": 299534,
-    "title": "Avengers: Endgame",
-    "original_title": "Avengers: Endgame",
-    "category": "Macera, Bilim Kurgu, Aksiyon",
-    "platform": "Platform Dışı",
-    "imdb_id": "",
-    "imdb": "8.2",
-    "year": "2019",
-    "added_date": "26 Ağustos, 2026",
-    "poster": "https://image.tmdb.org/t/p/w500/zx1uMVXSJrzYCA8KTpmeEBqBx66.jpg",
-    "url": "https://zstream.mov/media/tmdb-movie-299534-avengers-endgame",
-    "genres": [
-      "Macera",
-      "Bilim Kurgu",
-      "Aksiyon"
     ]
   },
   {
@@ -2712,24 +4380,6 @@
   },
   {
     "type": "film",
-    "tmdb_id": 597,
-    "title": "Titanik",
-    "original_title": "Titanic",
-    "category": "Dram, Romantik",
-    "platform": "Platform Dışı",
-    "imdb_id": "",
-    "imdb": "7.9",
-    "year": "1997",
-    "added_date": "26 Ağustos, 2026",
-    "poster": "https://image.tmdb.org/t/p/w500/hEntfzxB8yUXIxqZY929dELjLsi.jpg",
-    "url": "https://zstream.mov/media/tmdb-movie-597-titanic",
-    "genres": [
-      "Dram",
-      "Romantik"
-    ]
-  },
-  {
-    "type": "film",
     "tmdb_id": 1658216,
     "title": "Stepdaddy",
     "original_title": "Stepdaddy",
@@ -3000,25 +4650,6 @@
     "genres": [
       "Komedi",
       "Romantik"
-    ]
-  },
-  {
-    "type": "film",
-    "tmdb_id": 98,
-    "title": "Gladyatör",
-    "original_title": "Gladiator",
-    "category": "Aksiyon, Dram, Macera",
-    "platform": "Platform Dışı",
-    "imdb_id": "",
-    "imdb": "8.2",
-    "year": "2000",
-    "added_date": "26 Ağustos, 2026",
-    "poster": "https://image.tmdb.org/t/p/w500/wN2xWp1eIwCKOD0BHTcErTBv1Uq.jpg",
-    "url": "https://zstream.mov/media/tmdb-movie-98-gladiator",
-    "genres": [
-      "Aksiyon",
-      "Dram",
-      "Macera"
     ]
   },
   {
@@ -21353,24 +22984,6 @@
   },
   {
     "type": "film",
-    "tmdb_id": 142,
-    "title": "Brokeback Dağı",
-    "original_title": "Brokeback Mountain",
-    "category": "Dram, Romantik",
-    "platform": "Platform Dışı",
-    "imdb_id": "",
-    "imdb": "7.8",
-    "year": "2005",
-    "added_date": "26 Ağustos, 2026",
-    "poster": "https://image.tmdb.org/t/p/w500/lqaoMO0unKUDaJVqWTmFHvHQZbM.jpg",
-    "url": "https://zstream.mov/media/tmdb-movie-142-brokeback-mountain",
-    "genres": [
-      "Dram",
-      "Romantik"
-    ]
-  },
-  {
-    "type": "film",
     "tmdb_id": 9737,
     "title": "Bad Boys",
     "original_title": "Bad Boys",
@@ -23486,25 +25099,6 @@
   },
   {
     "type": "film",
-    "tmdb_id": 141,
-    "title": "Karanlık Yolculuk",
-    "original_title": "Donnie Darko",
-    "category": "Fantastik, Dram, Gizem",
-    "platform": "Platform Dışı",
-    "imdb_id": "",
-    "imdb": "7.8",
-    "year": "2001",
-    "added_date": "26 Ağustos, 2026",
-    "poster": "https://image.tmdb.org/t/p/w500/j2AtZFsflxiluaNtajMTI0Avm8C.jpg",
-    "url": "https://zstream.mov/media/tmdb-movie-141-donnie-darko",
-    "genres": [
-      "Fantastik",
-      "Dram",
-      "Gizem"
-    ]
-  },
-  {
-    "type": "film",
     "tmdb_id": 1242419,
     "title": "Roofman",
     "original_title": "Roofman",
@@ -25361,23 +26955,6 @@
     "added_date": "26 Ağustos, 2026",
     "poster": "",
     "url": "https://zstream.mov/media/tmdb-movie-1226578-longlegs",
-    "genres": [
-      "Film"
-    ]
-  },
-  {
-    "type": "film",
-    "tmdb_id": 241259,
-    "title": "Alice Through the Looking Glass",
-    "original_title": "Alice Through the Looking Glass",
-    "category": "Film",
-    "platform": "Platform Dışı",
-    "imdb_id": "",
-    "imdb": "",
-    "year": "",
-    "added_date": "26 Ağustos, 2026",
-    "poster": "",
-    "url": "https://zstream.mov/media/tmdb-movie-241259-alice-through-the-looking-glass",
     "genres": [
       "Film"
     ]
@@ -30290,23 +31867,6 @@
     "added_date": "26 Ağustos, 2026",
     "poster": "",
     "url": "https://zstream.mov/media/tmdb-movie-10948-the-fox-and-the-hound",
-    "genres": [
-      "Film"
-    ]
-  },
-  {
-    "type": "film",
-    "tmdb_id": 254470,
-    "title": "Pitch Perfect 2",
-    "original_title": "Pitch Perfect 2",
-    "category": "Film",
-    "platform": "Platform Dışı",
-    "imdb_id": "",
-    "imdb": "",
-    "year": "",
-    "added_date": "26 Ağustos, 2026",
-    "poster": "",
-    "url": "https://zstream.mov/media/tmdb-movie-254470-pitch-perfect-2",
     "genres": [
       "Film"
     ]
@@ -52629,23 +54189,6 @@
     "added_date": "26 Ağustos, 2026",
     "poster": "",
     "url": "https://zstream.mov/media/tmdb-movie-504172-the-mule",
-    "genres": [
-      "Film"
-    ]
-  },
-  {
-    "type": "film",
-    "tmdb_id": 455207,
-    "title": "Crazy Rich Asians",
-    "original_title": "Crazy Rich Asians",
-    "category": "Film",
-    "platform": "Platform Dışı",
-    "imdb_id": "",
-    "imdb": "",
-    "year": "",
-    "added_date": "26 Ağustos, 2026",
-    "poster": "",
-    "url": "https://zstream.mov/media/tmdb-movie-455207-crazy-rich-asians",
     "genres": [
       "Film"
     ]
@@ -119086,23 +120629,6 @@
   },
   {
     "type": "film",
-    "tmdb_id": 1319522,
-    "title": "โกฮัง..หัวใจโกโฮม",
-    "original_title": "โกฮัง..หัวใจโกโฮม",
-    "category": "Film",
-    "platform": "Platform Dışı",
-    "imdb_id": "",
-    "imdb": "",
-    "year": "",
-    "added_date": "26 Ağustos, 2026",
-    "poster": "",
-    "url": "https://zstream.mov/media/tmdb-movie-1319522",
-    "genres": [
-      "Film"
-    ]
-  },
-  {
-    "type": "film",
     "tmdb_id": 485942,
     "title": "ニンジャバットマン",
     "original_title": "ニンジャバットマン",
@@ -172388,23 +173914,6 @@
     "added_date": "26 Ağustos, 2026",
     "poster": "",
     "url": "https://zstream.mov/media/tmdb-movie-268246-ant-nio-conselheiro-o-taumaturgo-dos-sert-es",
-    "genres": [
-      "Film"
-    ]
-  },
-  {
-    "type": "film",
-    "tmdb_id": 1744462,
-    "title": "Grand Theft Auto VI: An Extended Look",
-    "original_title": "Grand Theft Auto VI: An Extended Look",
-    "category": "Film",
-    "platform": "Platform Dışı",
-    "imdb_id": "",
-    "imdb": "",
-    "year": "",
-    "added_date": "26 Ağustos, 2026",
-    "poster": "",
-    "url": "https://zstream.mov/media/tmdb-movie-1744462-grand-theft-auto-vi-an-extended-look",
     "genres": [
       "Film"
     ]
@@ -306631,23 +308140,6 @@
     "added_date": "26 Ağustos, 2026",
     "poster": "",
     "url": "https://zstream.mov/media/tmdb-movie-297702-gutshot-straight",
-    "genres": [
-      "Film"
-    ]
-  },
-  {
-    "type": "film",
-    "tmdb_id": 331781,
-    "title": "Amy",
-    "original_title": "Amy",
-    "category": "Film",
-    "platform": "Platform Dışı",
-    "imdb_id": "",
-    "imdb": "",
-    "year": "",
-    "added_date": "26 Ağustos, 2026",
-    "poster": "",
-    "url": "https://zstream.mov/media/tmdb-movie-331781-amy",
     "genres": [
       "Film"
     ]
@@ -480829,23 +482321,6 @@
   },
   {
     "type": "film",
-    "tmdb_id": 283161,
-    "title": "Kahlil Gibran's The Prophet",
-    "original_title": "Kahlil Gibran's The Prophet",
-    "category": "Film",
-    "platform": "Platform Dışı",
-    "imdb_id": "",
-    "imdb": "",
-    "year": "",
-    "added_date": "26 Ağustos, 2026",
-    "poster": "",
-    "url": "https://zstream.mov/media/tmdb-movie-283161-kahlil-gibran-s-the-prophet",
-    "genres": [
-      "Film"
-    ]
-  },
-  {
-    "type": "film",
     "tmdb_id": 161823,
     "title": "Fill de Caín",
     "original_title": "Fill de Caín",
@@ -520361,23 +521836,6 @@
   },
   {
     "type": "film",
-    "tmdb_id": 410718,
-    "title": "Before the Flood",
-    "original_title": "Before the Flood",
-    "category": "Film",
-    "platform": "Platform Dışı",
-    "imdb_id": "",
-    "imdb": "",
-    "year": "",
-    "added_date": "26 Ağustos, 2026",
-    "poster": "",
-    "url": "https://zstream.mov/media/tmdb-movie-410718-before-the-flood",
-    "genres": [
-      "Film"
-    ]
-  },
-  {
-    "type": "film",
     "tmdb_id": 487722,
     "title": "Eddie Bravo Invitational 10",
     "original_title": "Eddie Bravo Invitational 10",
@@ -526773,23 +528231,6 @@
     "added_date": "28 Ağustos, 2026",
     "poster": "",
     "url": "https://zstream.mov/media/tmdb-movie-383046-y"
-  },
-  {
-    "type": "film",
-    "tmdb_id": 1737768,
-    "title": "The Robot Chicken [adult swim] 25th Anniversary Special",
-    "original_title": "The Robot Chicken [adult swim] 25th Anniversary Special",
-    "genres": [
-      "Film"
-    ],
-    "category": "Film",
-    "platform": "Platform Dışı",
-    "imdb_id": "",
-    "imdb": "",
-    "year": "",
-    "added_date": "28 Ağustos, 2026",
-    "poster": "",
-    "url": "https://zstream.mov/media/tmdb-movie-1737768-the-robot-chicken-adult-swim-25th-anniversary-special"
   },
   {
     "type": "film",
@@ -558546,23 +559987,6 @@
     "added_date": "28 Ağustos, 2026",
     "poster": "",
     "url": "https://zstream.mov/media/tmdb-movie-1599144-magnolie"
-  },
-  {
-    "type": "film",
-    "tmdb_id": 319075,
-    "title": "Cobain: Montage of Heck",
-    "original_title": "Cobain: Montage of Heck",
-    "category": "Film",
-    "platform": "Platform Dışı",
-    "imdb_id": "",
-    "imdb": "",
-    "year": "",
-    "added_date": "26 Ağustos, 2026",
-    "poster": "",
-    "url": "https://zstream.mov/media/tmdb-movie-319075-cobain-montage-of-heck",
-    "genres": [
-      "Film"
-    ]
   },
   {
     "type": "film",
